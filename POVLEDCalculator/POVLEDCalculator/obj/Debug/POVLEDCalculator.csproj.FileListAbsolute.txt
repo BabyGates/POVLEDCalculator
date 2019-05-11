@@ -1,0 +1,10 @@
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\bin\Debug\POVLEDCalculator.exe.config
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\bin\Debug\POVLEDCalculator.exe
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\bin\Debug\POVLEDCalculator.pdb
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\obj\Debug\POVLEDCalculator.csprojAssemblyReference.cache
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\obj\Debug\POVLEDCalculator.Form1.resources
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\obj\Debug\POVLEDCalculator.Properties.Resources.resources
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\obj\Debug\POVLEDCalculator.csproj.GenerateResource.cache
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\obj\Debug\POVLEDCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\obj\Debug\POVLEDCalculator.exe
+C:\Users\Brannon\Desktop\VSRepos\POVLEDCalculator\POVLEDCalculator\obj\Debug\POVLEDCalculator.pdb
